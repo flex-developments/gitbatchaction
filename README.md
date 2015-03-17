@@ -1,7 +1,7 @@
 # gitbatchaction
 Shell - Script para manipulación de repositorios git en lote.
 
-Copyright (C) 2014
+## Copyright (C) 2014
 Ing. Felix D. Lopez M. - flex.developments@gmail.com
 
 Desarrollo apoyado por la Superintendencia de Servicios de Certificación Electrónica (SUSCERTE) durante 2014 por:
