@@ -1,14 +1,14 @@
 # gitbatchaction
 Shell - Script para manipulación de repositorios git en lote.
 
-## Copyright (C) 2014
-Ing. Felix D. Lopez M. - flex.developments en gmail
+## Dependencias
+ * ...
+ 
+## Copyright (C) 2014 - Ing. Felix D. Lopez M.
+ * Ing. Felix D. Lopez M. - flex.developments en gmail
 
 Desarrollo apoyado por la Superintendencia de Servicios de Certificación Electrónica (SUSCERTE) durante 2014 por:
-Ing. Felix D. Lopez M. - flex.developments en gmail | flopez en suscerte gob ve
-
-Continuidad de mantenimiento por:
-Ing. Felix D. Lopez M. - flex.developments en gmail
+ * Ing. Felix D. Lopez M. - flex.developments en gmail | flopez en suscerte gob ve
 
 Este programa es software libre; Usted puede usarlo bajo los terminos de la licencia de software GPL version 2.0 de la Free Software Foundation.
 
